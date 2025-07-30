@@ -150,3 +150,10 @@ app.listen(port, () => {
 // } catch (err) {
 //   console.error('❌ Invalid token:', err.message);
 // }
+
+//HTTP has three ways to passs parameters : Url path parameters, query parameters, and header parameters.
+
+//web framework directory structure
+//node_modules,config,models,views,Routes,Public,app.js,routes.js,package.json.
+
+//API- node_modules,config,models,routes,app.js,package.json.
